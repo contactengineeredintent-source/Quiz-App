@@ -184,6 +184,7 @@ body {
 @media (min-width: 2092px) {
   #tagline {
     margin-top: 40px;
+    color:red;
   }
   .tag_text {
     font-size: 90px;
