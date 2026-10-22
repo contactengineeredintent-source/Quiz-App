@@ -167,7 +167,7 @@ body {
 }
 
 /* media query laptop view*/
-@media (max-width: 1507px) {
+@media (max-width: 1674px) {
   .tag_text {
     margin-top: 50px;
     font-size: 60px;
@@ -181,7 +181,7 @@ body {
 }
 
 /* media query desktop view*/
-@media (min-width: 1880px) {
+@media (min-width: 2092px) {
   #tagline {
     margin-top: 40px;
   }
