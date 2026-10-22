@@ -186,19 +186,19 @@ body {
     margin-top: 40px;
   }
   .tag_text {
-    font-size: 80px;
+    font-size: 90px;
   }
   #random_btn {
-    margin-top: 50px;
+    margin-top: 60px;
   }
   #crousel_iamge_container {
-    width: 800px;
-    height: 200px;
+    width: 1000px;
+    height: 300px;
   }
   .crousel_image {
-    height: 120px;
+    height: 140px;
   }
   .responseArea {
-    margin-top: 80px;
+    margin-top: 90px;
   }
 }
