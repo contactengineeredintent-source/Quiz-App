@@ -167,10 +167,11 @@ body {
 }
 
 /* media query laptop view*/
-@media (max-width: 1674px) {
+@media (max-width: 1680px) {
   .tag_text {
     margin-top: 50px;
-    font-size: 70px;
+    font-size: 70px
+    color:red;
   }
   #random_btn {
     margin-top: 60px;
@@ -184,7 +185,7 @@ body {
 @media (min-width: 2092px) {
   #tagline {
     margin-top: 40px;
-    color:red;
+    
   }
   .tag_text {
     font-size: 90px;
